@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Monty Hall Sim</string>
+    <string name="tap_me">Tap me!</string>
+    <string name="your_score">Your Score: %1$d</string>
+    <string name="time_left">Time left: %1$d</string>
+    <string name="door_opened_message">Door %1$d Opened!</string>
+    <string name="switch_door_question">Would you like to switch doors or stay?</string>
+    <string name="about_title">Monty Hall Sim %1$s\n </string>
+    <string name="Win">You Won!</string>
+    <string name="Loss">Better Luck Next Time!</string>
+    <string name="about_message">Created by Warren</string>
+</resources>
